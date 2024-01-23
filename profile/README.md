@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>TSCTI -  TAXBOTS</h1>
-   <img src="URL_da_sua_imagem" alt="LOGO TSCTI">
+   <img width="300" height="104" src="https://www.tscti.com.br/wp-content/uploads/2019/03/Logo-TSCTI-300x104.png" class="attachment-medium size-medium wp-image-3143" alt="Logo TSCTI Soluções Fiscais" loading="lazy" srcset="https://www.tscti.com.br/wp-content/uploads/2019/03/Logo-TSCTI-300x104.png 300w, https://www.tscti.com.br/wp-content/uploads/2019/03/Logo-TSCTI-768x267.png 768w, https://www.tscti.com.br/wp-content/uploads/2019/03/Logo-TSCTI-198x69.png 198w, https://www.tscti.com.br/wp-content/uploads/2019/03/Logo-TSCTI.png 771w" sizes="(max-width: 300px) 100vw, 300px">
+  <h1>TAXBOTS</h1>
 </div>
 
 ## Visão Geral
