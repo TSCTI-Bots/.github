@@ -1,4 +1,7 @@
-# TSCTI -  TAXBOTS
+<div align="center">
+  <h1>TSCTI -  TAXBOTS</h1>
+   <img src="URL_da_sua_imagem" alt="LOGO TSCTI">
+</div>
 
 ## Visão Geral
 
