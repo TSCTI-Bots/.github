@@ -29,22 +29,22 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados:
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/TSCTI-Bots/TB_FED.git
    ```
 
-1. Navegue até o diretório do bot desejado:
+2. Altere o status da variavel automacaoServidor como 'False'.
+
+   OBS: Por padrão ela deve vir como 'True':
 
    ```bash
-   cd nome-do-repositorio/Bots/nome-do-bot
+    automacaoServidor = True
+    automacaoServidor = False
    ```
-
-2. Siga as instruções de configuração e execução descritas na documentação do bot.
-
-3. Execute o bot e aproveite a automação!
-
+3. Alterar ou adicionar um novo parametro para o Bot que deseja Rodar:
+   ```bash
+   infosArqTxt = "BotFed|0123|12345678901234|10.1.4.213|COD_EMPRESA|"
+   ```
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato através das issues ou envie um e-mail para [seu-email@example.com].
-
-Esperamos que este repositório torne suas tarefas diárias mais eficientes através da automação com RPA. Agradecemos por usar nosso projeto!
+Para dúvidas ou suporte, entre em contato através das issues ou envie um e-mail para felipe.oliveira@tscti.com.br ou vinicius.oliveira@tscti.com.br.
