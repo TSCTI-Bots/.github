@@ -16,6 +16,7 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados:
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Ícone do VSCode" width="25" height="15"> [Visual Studio Code](https://code.visualstudio.com/download)
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Ícone do GitHub" width="25" height="15"> [GitHub](https://github.com/login)
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Ícone do Java" width="25" height="15"> [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Ícone do Git" width="25" height="15">[Git](https://git-scm.com/download/win)
 
 - Extenções do VsCode:
 - - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Ícone do Python" width="25" height="15"> Python
