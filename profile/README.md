@@ -3,52 +3,60 @@
   <h1>TAXBOTS</h1>
 </div>
 
-## Visão Geral
+## 🧾 Visão Geral
+Bem-vindo ao repositório da TSCTI para automações com RPA (Robotic Process Automation).
+Este repositório tem como objetivo armazenar os bots desenvolvidos pela empresa, voltados para a automação de tarefas repetitivas e manuais. Os bots são implementados com ferramentas de RPA, com foco em:
 
-Bem-vindo ao repositório da TSCTI de automações com RPA. Este respositorio tem como objetivo armazenar os Bots desenvolvidos pela empresa onde, eles tem como objetivo simplificar a automação de tarefas repetitivas e manuais, 
-através da implementação de bots automatizados. Esses bots são desenvolvidos utilizando ferramentas de RPA, visando aumentar a eficiência operacional e reduzir erros humanos.
+- Aumentar a eficiência operacional;
 
-## Pré-requisitos
+- Reduzir erros humanos;
 
-Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados:
+- Otimizar o tempo das equipes.
 
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Ícone do Python" width="25" height="15"> [Python](https://www.python.org/)
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Ícone do VSCode" width="25" height="15"> [Visual Studio Code](https://code.visualstudio.com/download)
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Ícone do GitHub" width="25" height="15"> [GitHub](https://github.com/login)
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Ícone do Java" width="25" height="15"> [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Ícone do Git" width="25" height="15">[Git](https://git-scm.com/download/win)
+## ✅ Pré-requisitos
+Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
 
-- Extenções do VsCode:
-- - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Ícone do Python" width="25" height="15"> Python
-- - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Ícone do Pylance" width="25" height="15"> Pylance
-- - <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Ícone do Git History" width="25" height="15"> Git History
-- - <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Ícone do Gitignore" width="25" height="15"> Gitignore 
-- - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Ícone do GitHub Pull Requests and Issues" width="25" height="15"> GitHub Pull Requests and Issues
-- - <img src="https://img.icons8.com/color/48/xml-file.png" alt="Ícone XML" width="25" height="15"> XML
-- - <img src="https://img.icons8.com/color/48/pdf-2--v1.png" alt="Ícone do Vscode-pdf" width="25" height="15"/> vscode-pdf 
-- - <img src="https://icons8.com.br/icon/BEMhRoRy403e/ms-excel.png" alt="Ícone do Excel" width="25" height="15"/> Excel Viewer
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="20"> [Python](https://www.python.org/)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20"> [Visual Studio Code](https://code.visualstudio.com/download)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="20"> [GitHub](https://github.com/login)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="20"> [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20"> [Git](https://git-scm.com/download/win)
 
-## Instruções de Uso
+## 🧩 Extensões recomendadas no VSCode:
+  
+- Python
+- Pylance
+- Git History
+- Gitignore
+- GitHub Pull Requests and Issues
+- XML
+- vscode-pdf
+- Excel Viewer
 
-1. Clone o repositório para o seu ambiente local:
+## 🚀 Como Usar
+
+1. Clone o repositório:
 
    ```bash
    git clone https://github.com/TSCTI-Bots/TB_FED.git
    ```
 
-2. Altere o status da variavel automacaoServidor como 'False'.
-
-   OBS: Por padrão ela deve vir como 'True':
+2. Configure o ambiente de execução:
+   Altere o valor da variável automacaoServidor para False se estiver rodando localmente.
+   Por padrão, ela estará como True.
 
    ```bash
     automacaoServidor = True
     automacaoServidor = False
    ```
-3. Alterar ou adicionar um novo parametro para o Bot que deseja Rodar:
+3. Adicione ou edite os parâmetros do bot a ser executado:
    ```bash
    infosArqTxt = "BotFed|0123|12345678901234|10.1.4.213|COD_EMPRESA|"
    ```
 
-## Contato
+## 📬 Contato
+Em caso de dúvidas, sugestões ou suporte, entre em contato:
+- 📧 felipe.oliveira@tscti.com.br
+- 📧 vinicius.oliveira@tscti.com.br
 
-Para dúvidas ou suporte, entre em contato através das issues ou envie um e-mail para felipe.oliveira@tscti.com.br ou vinicius.oliveira@tscti.com.br.
+Ou abra uma issue diretamente aqui no GitHub.
