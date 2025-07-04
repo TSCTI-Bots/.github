@@ -57,6 +57,5 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
 ## 📬 Contato
 Em caso de dúvidas, sugestões ou suporte, entre em contato:
 - 📧 felipe.oliveira@tscti.com.br
-- 📧 vinicius.oliveira@tscti.com.br
 
 Ou abra uma issue diretamente aqui no GitHub.
